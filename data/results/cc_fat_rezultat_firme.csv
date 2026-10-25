@@ -1,0 +1,27 @@
+company_number,nume,domeniu,status_domeniu,pagini_in_index,pagini_citite,stare,tva_gasite,secunde
+08668845,Inspectas Compliance,inspectas.co.uk,da,0.0,0,ABSENT_DIN_CRAWL,,19
+13524377,Vilolet-Shift UK Ltd,violetshift.co.uk,da,0.0,0,ABSENT_DIN_CRAWL,,5
+16605182,AIION Ltd,aiion.co.uk,da,9.0,9,FARA_TVA_IN_PAGINI_CITITE,,25
+NI038469,ICONI Software Ltd,iconi.co.uk,da,1.0,1,FARA_TVA_IN_PAGINI_CITITE,,10
+06711962,ProofID,proofid.com,da,41.0,30,FARA_TVA_IN_PAGINI_CITITE,,62
+00191596,Ford Retail Limited,fordretail.com,da,10.0,1,GASIT,833053650,25
+07291125,THINKS INSIGHT AND STRATEGY (BRITAIN THINKS) LIMITED,thinksinsight.com,da,0.0,0,ABSENT_DIN_CRAWL,,10
+00673817,TW ENGINEERING CO LIMITED,tweng.co.uk,da,,0,ABSENT_DIN_CRAWL,,62
+01616977,Bytes Software Services Limited,bytes.co.uk,neverificat,103.0,30,FARA_TVA_IN_PAGINI_CITITE,,75
+OC308658,TLT LLP,tlt.com,da,679.0,1,GASIT,129500920 752995876,27
+06832618,Holt Medical Recruitment Ltd,holtdoctors.co.uk,da,1197.0,30,FARA_TVA_IN_PAGINI_CITITE,,100
+03341304,MRI Software Limited,mrisoftware.com,neverificat,,0,EROARE_INDEX,,62
+06296993,Bond Bryan Architects Limited,bondbryan.co.uk,da,129.0,30,FARA_TVA_IN_PAGINI_CITITE,,62
+08549843,Devon Tree Services Limited,devontreeservices.co.uk,da,53.0,30,FARA_TVA_IN_PAGINI_CITITE,,66
+08363432,Places for People Leisure Limited,placesforpeopleleisure.org,neverificat,0.0,0,ABSENT_DIN_CRAWL,,5
+OC304417,Carter Jonas LLP,carterjonas.co.uk,da,641.0,5,GASIT,256845862,13
+01383511,WSP UK limited,wsp.com,neverificat,175.0,30,FARA_TVA_IN_PAGINI_CITITE,,72
+06667367,Crawford & Co Surveyors Limited,cc-ltd.co.uk,da,0.0,0,ABSENT_DIN_CRAWL,,9
+03460378,Bouygues UK,bouygues-uk.com,da,108.0,30,FARA_TVA_IN_PAGINI_CITITE,,100
+10398586,Westdale Midlands Limited,midlands.westdale.uk,da,28.0,28,FARA_TVA_IN_PAGINI_CITITE,,100
+03789359,Instep UK Limited,instepuk.com,da,110.0,1,GASIT,736669489,8
+16314547,SCENARIOAI LIMITED,scenarioai.tech,da,2.0,2,FARA_TVA_IN_PAGINI_CITITE,,12
+OC307212,BURGES SALMON LLP,burges-salmon.com,da,637.0,30,FARA_TVA_IN_PAGINI_CITITE,,83
+03146250,Technology Solutions Ltd,technologysolutions.co.uk,da,24.0,24,FARA_TVA_IN_PAGINI_CITITE,,56
+00968498,NEC Software Solutions UK Limited,necsws.com,neverificat,149.0,30,FARA_TVA_IN_PAGINI_CITITE,,71
+04771037,Academia Limited,academia.co.uk,da,113.0,30,FARA_TVA_IN_PAGINI_CITITE,,71

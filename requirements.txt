@@ -1,0 +1,10 @@
+# Python 3.12. Versions are the ones installed in the environment the notebooks were run in.
+duckdb==1.5.6
+pandas==3.0.6
+openpyxl==3.1.5        # pandas.read_excel (Kirklees register)
+requests==2.34.2
+warcio==1.8.1          # Common Crawl WARC/WET records
+pypdf==6.21.1          # text from PDFs found in the crawl
+python-dotenv==1.2.4   # HMRC Sandbox credentials from .env
+ipykernel==7.4.0       # run the notebooks in VS Code / Jupyter
+matplotlib==3.11.2     # figures/ (scripts/make_figures.py)

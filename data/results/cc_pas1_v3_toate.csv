@@ -1,0 +1,13 @@
+company_number,firma,domeniu,tva_hmrc,pagini_in_index,pdf_in_index,pagini_descarcate,pagini_cu_cuvantul_vat,pdf_ilizibile,erori_descarcare,tva_gasit_cc,url_gasit,tip_pagina,pozitie_in_lista,nr_firma_langa_tva,alte_numere,diagnostic,secunde
+00307876,HAULFRYN GROUP,haulfryngroup.com,159723633,0,0,0,0,0,0,False,,,,False,,domeniul lipseste din crawl,24
+08734445,GREENSPRUCE GP,invesco.com,193725187,EROARE,0,0,0,0,0,False,,,,False,,eroare server la index - de reincercat,74
+10829012,WAHED INVEST,wahed.com,484624270,858,0,30,1,0,0,False,,,,False,,"apare cuvantul VAT, dar nu numarul firmei - de verificat de mana",71
+01180133,LAINE THEATRE ARTS,laine-theatre-arts.co.uk,211105734,94,73,1,1,0,0,True,https://www.laine-theatre-arts.co.uk/wp-content/uploads/2026/06/2026-DIPLOMA-DEGREE-COURSE-TERMS-AND-CONDITIONS-HH-SC.pdf,pdf,0,True,,gasit,12
+09229677,BP3 GLOBAL,bp-3.com,437464183,EROARE,0,0,0,0,0,False,,,,False,,eroare server la index - de reincercat,62
+11488011,STRATFORD RETAIL,stratfordcapital.co.uk,324887179,0,0,0,0,0,0,False,,,,False,,domeniul lipseste din crawl,10
+09802945,RED CONSTRUCTION,redconstruction.co.uk,230249147,92,0,30,0,0,0,False,,,,False,,nicio pagina descarcata nu contine cuvantul VAT,85
+NI030990,ENCIRC,encirc360.com,143776493,113,0,30,0,0,0,False,,,,False,,nicio pagina descarcata nu contine cuvantul VAT,74
+04084819,ROPE & SLING,ropeandsling.co.uk,811037280,174,6,1,1,0,0,True,https://www.ropeandsling.co.uk/contact/,html,0,True,,gasit,10
+09066663,ABQ INVESTMENT,abqglobal.com,208066915,2,0,2,0,0,0,False,,,,False,,nicio pagina descarcata nu contine cuvantul VAT,31
+11668305,JERA NEX,jeranex.com,315775783,17,0,17,0,0,0,False,,,,False,,nicio pagina descarcata nu contine cuvantul VAT,63
+09098453,ELIZABETH SCHOOL,esl.ac.uk,264050919,1,0,1,0,0,0,False,,,,False,,nicio pagina descarcata nu contine cuvantul VAT,10

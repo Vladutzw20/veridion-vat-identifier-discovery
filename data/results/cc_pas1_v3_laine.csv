@@ -1,0 +1,2 @@
+company_number,firma,domeniu,tva_hmrc,pagini_in_index,pdf_in_index,pagini_descarcate,pagini_cu_cuvantul_vat,pdf_ilizibile,erori_descarcare,tva_gasit_cc,url_gasit,tip_pagina,pozitie_in_lista,nr_firma_langa_tva,alte_numere,diagnostic,secunde
+01180133,LAINE THEATRE ARTS,laine-theatre-arts.co.uk,211105734,94,73,1,1,0,0,True,https://www.laine-theatre-arts.co.uk/wp-content/uploads/2026/06/2026-DIPLOMA-DEGREE-COURSE-TERMS-AND-CONDITIONS-HH-SC.pdf,pdf,0,True,,gasit,8
